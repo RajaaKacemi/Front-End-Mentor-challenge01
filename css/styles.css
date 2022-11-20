@@ -23,5 +23,6 @@ body{
 
 }
 img{
-    border-radius: 24px;;
+    padding: 1px;
+    border-radius: 25px;
 }
